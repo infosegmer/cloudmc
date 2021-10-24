@@ -1,0 +1,28 @@
+
+.bton{
+	position: relative;
+	margin-top: 20%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	align-content: center;
+}
+a{
+	width: auto;
+	height: auto;
+	font-family: fantasy;
+	font-weight: 10;
+	font-size: 50px;
+	color: white;
+}
+.body2{
+	background-image: url("fondo.jpg");
+	background-repeat: round;
+	background-attachment: fixed
+}
+footer{
+	color: gray;
+	margin-top: 20%;
+	font-family: cursive;
+	font-size: 16px;
+}
